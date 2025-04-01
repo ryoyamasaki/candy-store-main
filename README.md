@@ -1,5 +1,9 @@
 ## 商品管理システム
 
+* 最初にbasicauth認証でユーザー名とパスワードが要求されます。
+* ユーザー名 dogotyarinko
+* パスワード otsukareyumin
+
 ### 環境構築手順
 
 * Gitクローン
